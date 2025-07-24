@@ -3,7 +3,6 @@
 💻 Computer Science student @ Queen’s University 🇨🇦  
 📚 Majoring in Artificial Intelligence  
 📫 Reach me at: 24bn19@queensu.ca 
-🌐 Portfolio coming soon...
 
 ---
 
