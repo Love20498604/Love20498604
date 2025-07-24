@@ -24,15 +24,12 @@
 
 #### 🎬 Movie Recommendation System
 A content-based web app that recommends movies based on genre, cast, and description. Built using Flask, Pandas, and the TMDb API.  
-[View Project](https://github.com/Love20498604/Movie-recommendation-system)
 
 #### 🧠 Face Recognition Attendance System
 A full-stack Flask app for logging attendance using real-time face recognition. Used OpenCV, face_recognition, SQLite, and Bootstrap.  
-[View Project](https://github.com/Love20498604/Face-Attendance-System)
 
 #### 🌌 Space War Game
 A Python-based arcade game inspired by Space Invaders, built using Pygame with custom animations and audio.  
-[View Project](https://github.com/Love20498604/Space-War)
 
 ---
 
